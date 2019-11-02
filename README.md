@@ -4,6 +4,18 @@ A Quasar Framework app
 
 ## Install the dependencies
 ```bash
+npm i vue-cli --save
+```
+
+## Install the dependencies
+```bash
+npm install -g @quasar/cli
+```
+
+cd caseeditor
+
+## Install the dependencies
+```bash
 npm install
 ```
 
@@ -21,6 +33,3 @@ npm run lint
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
